@@ -56,7 +56,8 @@ or use the command to make you copy : pbcopy < FILE_FILE (./testkey.pub)
 
 
 
-
+---
+This crash course from : [FreeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 
 
